@@ -9,8 +9,8 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 
 app = TelegramClient(
     "your_name",
-    api_id='1420510',
-    api_hash="47c450aa3f9e6753e3a1bc50cf4fb2fa"
+    api_id='sdfg',
+    api_hash="sdfg"
 )
 
 def add():
